@@ -1,0 +1,7 @@
+.fruitsDiv > p {
+    padding: 80px 35px;
+    border: crimson solid 2px;
+    border-radius: 5px;
+    box-shadow: -4px 4px 4px 4px black;
+    border-top: yellow solid 2px;
+}
